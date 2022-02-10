@@ -1,3 +1,4 @@
+//-----------------------------------------
 Array.prototype.includesCi=function(caseins){
           
     const even=(value)=>value.toLowerCase()===caseins.toLowerCase()
