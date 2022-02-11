@@ -65,6 +65,7 @@ function parentFolderOf(id) {
 	
 }
 //----------------------------------------------------------------------
+//move(),copy() Eksik--
 console.log(remove(18));
 console.log(removeFolder(5));
 console.log(parentFolderOf(22));
